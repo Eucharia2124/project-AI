@@ -1,6 +1,6 @@
 body {
-    background-color: #f9f7feea;
-    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color: whitesmoke;
+    font-family: R, Arial, sans-serif;
 }
 a {
     color: #885df1;
@@ -18,7 +18,7 @@ header {
 h1 {
     text-align: center;
     font-weight: 800;
-    font-size: 36px;
+    font-size: 40px;
     line-height: 1.5;
     color: #272044;
 }
